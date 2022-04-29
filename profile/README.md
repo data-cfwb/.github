@@ -1,12 +1,12 @@
-## Hi there 👋
+# 👋 Data Office of CFWB
 
-<!--
+🙋‍♀️ Data Office is a team from the [Ministry of Wallonia-Brussels Federation of Belgium](https://www.federation-wallonie-bruxelles.be/).
 
-**Here are some ideas to get you started:**
+🏢 We are composed of data engineers and data analysts who are passionate about building data-driven products.
 
-🙋‍♀️ A short introduction - what is your organization all about?
+<!-- 
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 
 -->
