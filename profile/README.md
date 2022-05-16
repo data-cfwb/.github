@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/data-cfwb/wikijs/main/logo_data_office_white_bck.png?token=GHSAT0AAAAAABHZB5ZYEGBRMNCCI2YFWYJ4YUCBKWA" width="150" title="Data Office Logo">
+  <img src="https://raw.githubusercontent.com/data-cfwb/.github/main/logo_data_office.png" width="150" title="Data Office Logo">
 </p>
 
 # 👋 Data Office of CFW-B
