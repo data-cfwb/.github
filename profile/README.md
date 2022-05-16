@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/data-cfwb/wikijs/main/logo_data_office_white_bck.png?token=GHSAT0AAAAAABHZB5ZYEGBRMNCCI2YFWYJ4YUCBKWA" width="150" title="Data Office Logo">
 </p>
 
-# 👋 Data Office of CFWB
+# 👋 Data Office of CFW-B
 
 🙋‍♀️ Data Office is a team from the [Ministry of Wallonia-Brussels Federation of Belgium](https://www.federation-wallonie-bruxelles.be/).
 
